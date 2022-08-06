@@ -1,7 +1,13 @@
 # Game of Life
-Implementation of the Conway's Game of Life in the Backend and Frontend with Java, JavaScript, React
+Implementation of the Conway's Game of Life in JavaScript with React
 
-# Instructions
+Play Conway's Game of Life in UltraFish Plus: [plus.ultrafish.cn/gameoflife/](https://plus.ultrafish.cn/gameoflife/)
+
+![Conway's Game of Life in UltraFish Plus with React](https://src.ultrafish.cn/storage/GOL-UltraFish_Plus.png)
+
+---
+
+# Usage
 
 **Step 1**: Make sure you have installed the latest version of [Node.js](https://nodejs.org/en/).
 
@@ -21,3 +27,9 @@ npm start
 **Step 5**: Open your local browser and go to http://localhost:3000
 
 **Step 6**: You can see and play the Game of Life in the browser.
+
+---
+
+# Implementation Details
+
+Please visit the [post in UltraFish](https://ultrafish.cn/2022/08/05/game-of-life-implementation/) for more details.
