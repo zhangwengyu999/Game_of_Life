@@ -1,5 +1,5 @@
 # Game of Life
-Implementation of the Conway's Game of Life in JavaScript with React
+Implementation of the [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in JavaScript with React
 
 Play Conway's Game of Life in UltraFish Plus: [plus.ultrafish.cn/gameoflife/](https://plus.ultrafish.cn/gameoflife/)
 
