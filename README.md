@@ -30,6 +30,12 @@ npm start
 
 ---
 
+# Alternative in Java
+
+I also provide a Java implementation of the Game of Life in [this repository](https://github.com/zhangwengyu999/Data_Structure_and_Algorithm/tree/main/Algorithms/Game_of_Life), which runs in console locally.
+
+---
+
 # Implementation Details
 
 Please visit the [post in UltraFish](https://ultrafish.cn/2022/08/05/game-of-life-implementation/) for more details.
