@@ -1,9 +1,9 @@
 # Game of Life
 Implementation of the [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in JavaScript with React
 
-Play Conway's Game of Life in UltraFish Plus: [plus.ultrafish.cn/gameoflife/](https://plus.ultrafish.cn/gameoflife/)
+Play Conway's Game of Life in UltraFish Plus: [plus.ultrafish.io/gameoflife/](https://plus.ultrafish.io/gameoflife/)
 
-![Conway's Game of Life in UltraFish Plus with React](https://src.ultrafish.cn/storage/GOL-UltraFish_Plus.png)
+![Conway's Game of Life in UltraFish Plus with React](https://src.ultrafish.io/storage/GOL-UltraFish_Plus.png)
 
 ---
 
@@ -38,4 +38,4 @@ I also provide a Java implementation of the Game of Life in [this repository](ht
 
 # Implementation Details
 
-Please visit the [post in UltraFish](https://ultrafish.cn/2022/08/05/game-of-life-implementation/) for more details.
+Please visit the [post in UltraFish](https://ultrafish.io/post/game-of-life-implementation/) for more details.
